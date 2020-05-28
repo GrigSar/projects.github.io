@@ -1,0 +1,18 @@
+.hide{
+    top: -50px!important;
+
+}
+#nav{
+    transition: top .3s;
+    overflow: hidden;
+}
+#nav li{
+    list-style: none;
+}
+#nav ul{
+    align-items: center;
+    margin: 0!important;
+}
+.s{
+    height: 2000px;
+}
